@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\GameJam\Test\Test\main.cpp(68,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Test.vcxproj -> C:\GameJam\Test\Debug\Test.exe
